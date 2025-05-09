@@ -2,3 +2,7 @@ int a = 100;
 int b= 200;
 int c = a+b;
 print(c);
+
+int d = 90;
+int e = 90;
+print(d+e);
