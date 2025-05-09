@@ -1,0 +1,2 @@
+open cart project.
+need to frs document for creating a new scanarios and test cases.
